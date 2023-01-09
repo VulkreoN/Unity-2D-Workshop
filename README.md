@@ -11,7 +11,7 @@ This workshop aims to teach you the basics of Unity </br> To do so you'll create
 ## Getting Started
 
 To start this workshop, you'll need to create a new Unity2D Project.
-Opens the Given PDF (it's the subject ^^)
+Open the Subject PDF
 
 </br></br></br>
 *Author : Hakim REDJEM*
