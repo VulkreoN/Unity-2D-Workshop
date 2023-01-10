@@ -28,10 +28,36 @@ First Launch Unity Hub
 
 ![UnityHub](readme/UnityHub.png)
 
-Then click on the "New Project" button </br>
-Then select the "2D" template
+Then click on the "New Project" button and select the "2D" template
 
 ![NewProject](readme/UnityHubCreateProject.jpg)
+
+### We're now set to begin !
+
+You're now in front of the Unity Editor, let's start ! </br>
+
+![Editor](readme/UnityEditor.png)
+
+## Steps
+
+<details>
+    <summary>Step 1 - Create the player</summary>
+    The goal of this step is to create a controllable player and to bind the camera to it.
+
+
+</details></br>
+
+<details>
+    <summary>Step 2 - Create the projectiles</summary>
+    The goal of this step is to make your player shoot !
+
+</details></br>
+
+<details>
+    <summary>Step 3 - Create the enemies</summary>
+    The goal of this step is to create the enemies and to make them move towards the player.
+
+</details>
 
 </br></br></br>
 *Author : Hakim REDJEM*
