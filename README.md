@@ -98,7 +98,7 @@ You're now in front of the Unity Editor, let's start ! </br>
 
 ## Bonus !
 #### if you have time you can :
-* Just like the original game makes your player wield two weapons and aim lock one of them with your second mouse button
+* Just like the original game make your player wield two weapons and aim lock one of the weapons with your second mouse button
 * Animate your player and enemies -> [learn sprite animation](https://learn.unity.com/tutorial/introduction-to-sprite-animations?language=en)
 * Build a level -> look at [tilemaps](https://docs.unity3d.com/Manual/class-Tilemap.html)
 * Add some background music and sounds -> [audio clip](https://docs.unity3d.com/2019.3/Documentation/Manual/class-AudioClip.html)
